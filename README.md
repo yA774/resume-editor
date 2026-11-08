@@ -242,3 +242,7 @@ python -X utf8 -m unittest discover -s tests -v
 - PDF 页码、页眉页脚和打印设置；
 - 多张照片、照片尺寸/位置调节、二维码区域；
 - 拖拽导入和更完整的 Word 版式解析。
+
+
+下载地址链接：https://pan.baidu.com/s/1ms1Hlyhlk-F9hcVGDTeKnw 
+提取码：1234
